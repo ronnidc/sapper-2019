@@ -1,5 +1,7 @@
 # sapper-svelte-webapp
 
+*Archived April 25. 2023. Outdated - use SvelteKit instead*
+
 This webapp is build using the default [Sapper](https://github.com/sveltejs/sapper) template with Rollup as a starting point.
 
 ## Running this project
